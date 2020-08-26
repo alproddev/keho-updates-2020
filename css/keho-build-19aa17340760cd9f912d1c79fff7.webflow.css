@@ -1069,6 +1069,14 @@ h3 {
   background-color: #fff;
 }
 
+.keho-logo {
+  width: 150px;
+  background-image: url('../images/logo.svg');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 .design_system_container {
   margin-top: 100px;
 }
@@ -1513,6 +1521,7 @@ h3 {
     padding-left: 24px;
   }
   .keho-logo {
+    width: 120px;
     float: right;
   }
   .h3 {
@@ -1567,6 +1576,9 @@ h3 {
   }
   .collection-prod-desc {
     margin-top: 20px;
+  }
+  .keho-logo {
+    width: 100px;
   }
   .subcopy.footer-link.footer-secondary-link {
     display: block;
